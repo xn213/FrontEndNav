@@ -2,17 +2,17 @@
 
 > :label: FrontEndNav是Hulkye推出的前端导航，收录了大量高质量前端相关站点，为广大用户提供学习网站、学习方向、学习途径、最新前端框架等内容。收录国内外前端网站。 
 
-​	**本项目初衷是方便自己的学习 ,  满足自己的收集癖 :wink:,  提高自身开发效率 . 也拓展为为初学前端开发 / 前端开发人员服务的前端导航网站 , 如有什么建议 / 意见 欢迎在issue中指点出来:smile:**
+​	**本项目初衷是方便自己的学习 , :wink:,  提高自身开发效率 . 也拓展为为初学前端开发 / 前端开发人员服务的前端导航网站 , 如有什么建议 / 意见 欢迎在issue中指点出来:smile:**
 
 
 ---
 
 
-**项目地址:** https://github.com/Remaininglife/FrontEndNav
+**项目地址:** https://github.com/xn213/FrontEndNav
 
 **查看效果请移步:** 
 
-- or: https://Remaininglife.github.io/FrontEndNav
+- or: https://xn213.github.io/FrontEndNav
 
 
 ## 效果展示
@@ -45,7 +45,7 @@
 
 ## 贡献
 
-如果你有更好的网站推荐 ,  欢迎在[Issues](https://github.com/Remaininglife/FrontEndNav/issues) 中提出
+如果你有更好的网站推荐 ,  欢迎在[Issues](https://github.com/xn213/FrontEndNav/issues) 中提出
 
 数据如:
 

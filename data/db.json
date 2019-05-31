@@ -372,10 +372,10 @@
         "child_desc": "vue.js官方中文文档"
       },
       {
-        "child_name": "Node.js 中文文档",
+        "child_name": "Node.js 中文网API",
         "img_src": "./img/nodeapp.png",
-        "a_href": "https://www.nodeapp.cn/",
-        "child_desc": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js 使用了一个事件驱动、非阻塞式 I/O的模型，使其轻量又高效。Node.js 的包管理器"
+        "a_href": "http://nodejs.cn/api/",
+        "child_desc": "nodejs中文网中文文档"
       },
       {
         "child_name": "HTML5 + API",
@@ -426,10 +426,10 @@
         "child_desc": "使用JavaScript和React编写原生移动应用"
       },
       {
-        "child_name": "Node.js 中文网API",
+        "child_name": "Node.js 中文文档",
         "img_src": "./img/nodeapp.png",
-        "a_href": "http://nodejs.cn/api/",
-        "child_desc": "nodejs中文网中文文档"
+        "a_href": "https://www.nodeapp.cn/",
+        "child_desc": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js 使用了一个事件驱动、非阻塞式 I/O的模型，使其轻量又高效。Node.js 的包管理器"
       },
       {
         "child_name": "html5 Platform",

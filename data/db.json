@@ -360,12 +360,6 @@
     "category_item": "apiDocItem",
     "item_children": [
       {
-        "child_name": "HTML5",
-        "img_src": "./img/w3HTML5.png",
-        "a_href": "https://www.w3.org/html/ig/zh/wiki/HTML5",
-        "child_desc": "HTML5开发文档,开源(w3c组织)"
-      },
-      {
         "child_name": "vue.js中文文档",
         "img_src": "./img/vuejs.png",
         "a_href": "https://cn.vuejs.org/",
@@ -376,6 +370,24 @@
         "img_src": "./img/nodeapp.png",
         "a_href": "http://nodejs.cn/api/",
         "child_desc": "nodejs中文网中文文档"
+      },
+      {
+        "child_name": "React 中文文档",
+        "img_src": "./img/reactdocschina.png",
+        "a_href": "https://react.docschina.org/",
+        "child_desc": "用于构建用户界面的 JavaScript 库"
+      },
+      {
+        "child_name": "React Native 中文网",
+        "img_src": "./img/reactnative.png",
+        "a_href": "https://reactnative.cn/",
+        "child_desc": "使用JavaScript和React编写原生移动应用"
+      },
+      {
+        "child_name": "HTML5",
+        "img_src": "./img/w3HTML5.png",
+        "a_href": "https://www.w3.org/html/ig/zh/wiki/HTML5",
+        "child_desc": "HTML5开发文档,开源(w3c组织)"
       },
       {
         "child_name": "HTML5 + API",
@@ -412,18 +424,6 @@
         "img_src": "./img/npmjs.png",
         "a_href": "https://www.npmjs.cn/",
         "child_desc": "npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。npm，是全球最大的开源库生态系统。"
-      },
-      {
-        "child_name": "React 中文文档",
-        "img_src": "./img/reactdocschina.png",
-        "a_href": "https://react.docschina.org/",
-        "child_desc": "用于构建用户界面的 JavaScript 库"
-      },
-      {
-        "child_name": "React Native 中文网",
-        "img_src": "./img/reactnative.png",
-        "a_href": "https://reactnative.cn/",
-        "child_desc": "使用JavaScript和React编写原生移动应用"
       },
       {
         "child_name": "Node.js 中文文档",
@@ -1172,7 +1172,7 @@
         "child_desc": "JavaScript开发社区 | 码库CTOLib"
       },
       {
-        "child_name": "模板之家",
+        "child_name": "代码段",
         "img_src": "./img/daimaduan.png",
         "a_href": "https://daimaduan.com/",
         "child_desc": "代码段是一个优秀的代码分享平台, 用户可以在代码段上分享自己的代码, 查看别人优秀的代码, 甚至收藏别人的代码, 打造一个属于自己的代码库"
@@ -1977,6 +1977,12 @@
         "child_desc": "在线接口测试,模拟接口,正则匹配"
       },
       {
+        "child_name": "Insomnia",
+        "img_src": "./img/Insomnia.svg",
+        "a_href": "https://insomnia.rest/",
+        "child_desc": "Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux"
+      },
+      {
         "child_name": "云配色",
         "img_src": "./img/qdsay.png",
         "a_href": "http://card.qdsay.com/",
@@ -2019,6 +2025,18 @@
         "child_desc": "各大尺寸设备响应式屏幕效果显示"
       },
       {
+        "child_name": "Easy Mock",
+        "img_src": "./img/easymock.png",
+        "a_href": "https://easy-mock.com",
+        "child_desc": "Easy Mock 是一个可视化, 并且能快速生成模拟数据的持久化服务."
+      },
+      {
+        "child_name": "Random User Generator API",
+        "img_src": "./img/RandomAPI.png",
+        "a_href": "https://randomuser.me/",
+        "child_desc": "开源API 获取对应数据: 五千条包括gender等/api/?results=5000&inc=gender,email,phone,cell,nat; A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
+      },
+      {
         "child_name": "Browser Sandbox",
         "img_src": "./img/BrowserSandbox.png",
         "a_href": "https://turbo.net/browsers",
@@ -2035,12 +2053,6 @@
         "img_src": "./img/ipip.png",
         "a_href": "https://www.ipip.net/",
         "child_desc": "最专业的 IP 地址库,该站有许多ip类工具"
-      },
-      {
-        "child_name": "Easy Mock",
-        "img_src": "./img/easymock.png",
-        "a_href": "https://easy-mock.com",
-        "child_desc": "Easy Mock 是一个可视化, 并且能快速生成模拟数据的持久化服务."
       }
     ]
   },
